@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://user-images.githubusercontent.com/86625882/153833488-e2724707-d0d9-4165-9aa1-c7e1042813ea.mp4
+![itzrizvi](https://user-images.githubusercontent.com/86625882/153834114-95218881-8dbb-4222-9a6f-da15b0365580.gif)
+
 
 <!--
 **itzrizvi/itzrizvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
