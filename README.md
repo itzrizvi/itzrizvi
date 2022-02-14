@@ -25,3 +25,5 @@ Connect with me!
 
 #### Statistics
 ![Itzrizvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzrizvi&show_icons=true&count_private=true&theme=radical) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzrizvi&layout=compact)](https://github.com/itzrizvi/github-readme-stats)
