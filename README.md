@@ -19,9 +19,9 @@ Connect with me!
 
 #### Experiences
 
-:snowflake: &emsp; <strong>IT Corner Ltd</strong> || Nov 2021 - Present || Junior MERN Stack Developer (Internship)<br/>
-:snowflake: &emsp; <strong>Softcell Solution Ltd</strong> || Jul 2020 - Aug 2021 || Front-end Developer<br/>
-:snowflake: &emsp; <strong>Cesco Linguistic Services</strong> || Nov 2018 - Jan 2020 || Web-Developer<br/>
+:briefcase: &emsp; <strong>IT Corner Ltd</strong> || Nov 2021 - Present || Junior MERN Stack Developer (Internship)<br/>
+:briefcase: &emsp; <strong>Softcell Solution Ltd</strong> || Jul 2020 - Aug 2021 || Front-end Developer<br/>
+:briefcase: &emsp; <strong>Cesco Linguistic Services</strong> || Nov 2018 - Jan 2020 || Web-Developer<br/>
 
 #### Statistics
 ![Itzrizvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzrizvi&show_icons=true&count_private=true&theme=radical) 
