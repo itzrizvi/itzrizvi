@@ -24,6 +24,6 @@ Connect with me!
 :briefcase: &emsp; <strong>Cesco Linguistic Services</strong> || Nov 2018 - Jan 2020 || Web-Developer<br/>
 
 #### Statistics
-![Itzrizvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzrizvi&show_icons=true&count_private=true&theme=radical) 
+![Itzrizvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzrizvi&show_icons=true&count_private=true&theme=radical&include_all_commits=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzrizvi&theme=radical&count_private=true)](https://github.com/itzrizvi/github-readme-stats)
