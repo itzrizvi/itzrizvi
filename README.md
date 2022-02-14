@@ -23,6 +23,5 @@ Connect with me!
 :snowflake: &emsp; <strong>Softcell Solution Ltd</strong> || Jul 2020 - Aug 2021 || Front-end Developer<br/>
 :snowflake: &emsp; <strong>Cesco Linguistic Services</strong> || Nov 2018 - Jan 2020 || Web-Developer<br/>
 
-
-
-
+#### Statistics
+[![Itzrizvi's GitHub stats](https://github-readme-stats.vercel.app/api?itzrizvi=anuraghazra)](https://github.com/itzrizvi/github-readme-stats)
