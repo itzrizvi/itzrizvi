@@ -1,7 +1,7 @@
 ![itzrizvi](https://user-images.githubusercontent.com/86625882/153834114-95218881-8dbb-4222-9a6f-da15b0365580.gif)
 
 ### Hi there 👋
-This is Shahriar Rizvi, a professional MERN Stack Developer from Bangladesh. Writing code is the most precious thing I do in my daily doings and It helps to think in different ways and logics. Mostly generating different ways of a problem or a solution of any errors is quite fun.
+This is Shahriar Rizvi (MERN Stack Developer) from Bangladesh. Passionate about software based technologies. Mostly I have worked on JavaScript based frameworks and raw JavaScript as this is my favourite language. Now I'm working on the MERN stack as it's the most trendy stack and has included a of lot different technologies in this stack. Well, this all about me and Welcome to my GitHub Profile!!!
 
 Connect with me!
 
@@ -9,9 +9,9 @@ Connect with me!
 
 :hearts: &emsp; For me Coding is like eating donuts and everytime you have a different taste or flavour from that...<br/>
 🤔 &emsp; Always Extremely excited about learning new technologies.<br/>
-:computer: &emsp; Mostly I use Visual Studio as an IDE software <br/>
+:computer: &emsp; Mostly I use Visual Studio Code as an IDE software.<br/>
 :e-mail: &emsp; Reach me: shahriar.rizvi02@gmail.com.<br/>
-⚡ &emsp; Most interesting part is I'm a non tech graduated student who has a lot tech passion.
+⚡ &emsp; Most interesting part is I'm a non tech graduated student who has a lot of attraction to software based technology.
 
 #### Specialized
 
