@@ -3,7 +3,7 @@
 ### Hi there 👋
 This is Shahriar Rizvi (MERN Stack Developer) from Bangladesh. Passionate about software based technologies. Mostly I have worked on JavaScript based frameworks and raw JavaScript as this is my favourite language. Now I'm working on the MERN stack as it's the most trendy stack and has included a lot of different technologies in this stack. Well, this all about me and Welcome to my GitHub Profile!!!
 
-####Connect with me!
+#### Connect with me!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriar-rizvi/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriar.rizvi02@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ShahriarRizvi303/)
 
