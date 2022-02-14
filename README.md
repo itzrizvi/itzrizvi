@@ -24,4 +24,4 @@ Connect with me!
 :snowflake: &emsp; <strong>Cesco Linguistic Services</strong> || Nov 2018 - Jan 2020 || Web-Developer<br/>
 
 #### Statistics
-![Itzrizvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzrizvi&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Itzrizvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzrizvi&include_all_commits=true&show_icons=true&count_private=true&theme=radical)
