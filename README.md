@@ -7,7 +7,7 @@ This is Shahriar Rizvi (MERN Stack Developer) from Bangladesh. Passionate about 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahriar-rizvi/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriar.rizvi02@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ShahriarRizvi303/)
 
-:hearts: &emsp; Mostly, I Code on JavaScript and I love the way it works actually.<br/>
+:hearts: &emsp; Mostly, I Code on JavaScript and I love the way it works.<br/>
 :sunglasses: &emsp; Always Extremely excited about learning new technologies.<br/>
 :computer: &emsp; I use Visual Studio Code as an IDE software.<br/>
 ⚡ &emsp; Most interesting part is I'm a non tech graduated student who has a lot of attraction to software based technology.<br/>
