@@ -9,7 +9,7 @@ This is Shahriar Rizvi (MERN Stack Developer) from Bangladesh. Passionate about 
 
 :hearts: &emsp; Mostly, I Code on JavaScript and I love the way it works.<br/>
 :sunglasses: &emsp; Always Extremely excited about learning new technologies.<br/>
-:computer: &emsp; I use Visual Studio Code as an IDE software.<br/>
+:computer: &emsp; I use Visual Studio Code as an IDE software and Jira for task management.<br/>
 ⚡ &emsp; Most interesting part is I'm a non tech graduated student who has a lot of attraction to software based technology.<br/>
 :e-mail: &emsp; Reach me: shahriar.rizvi02@gmail.com.<br/>
 
