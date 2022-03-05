@@ -19,6 +19,7 @@ This is Shahriar Rizvi (MERN Stack Developer) from Bangladesh. Passionate about 
 
 #### Experiences
 
+:briefcase: &emsp; <strong>Tweetsy</strong> || March 2022 - Present || Backend Developer<br/>
 :briefcase: &emsp; <strong>IT Corner Ltd</strong> || Nov 2021 - Present || Junior MERN Stack Developer (Internship)<br/>
 :briefcase: &emsp; <strong>Softcell Solution Ltd</strong> || Jul 2020 - Aug 2021 || Front-end Developer<br/>
 :briefcase: &emsp; <strong>Cesco Linguistic Services</strong> || Nov 2018 - Jan 2020 || Web-Developer<br/>
