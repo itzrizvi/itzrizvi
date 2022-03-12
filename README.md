@@ -1,7 +1,7 @@
 ![itzrizvi](https://user-images.githubusercontent.com/86625882/153916658-478fa864-d47c-46f4-aec5-6482516c7f31.gif)
 
 ### Hi there👋
-This is Shahriar Rizvi (MERN Stack Developer) from Bangladesh. Passionate about software based technologies. Mostly I have worked on JavaScript based frameworks and raw JavaScript as this is my favourite language. Now I'm working on the MERN stack as it's the most trendy stack and has included a lot of different technologies in this stack. Well, this all about me and Welcome to my GitHub Profile!!!
+This is Shahriar Rizvi (MERN Stack Developer) from Bangladesh. Passionate about software based technologies. Mostly I have worked on JavaScript based frameworks and Vanilla JavaScript as this is my favourite language. Now I'm working on the MERN stack as it's the most trendy stack and has included a lot of different technologies in this stack. Well, this all about me and Welcome to my GitHub Profile!!!
 
 #### Connect with me!
 
