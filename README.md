@@ -19,7 +19,7 @@ This is Shahriar Rizvi (MERN Stack Developer) from Bangladesh. Passionate about 
 
 #### Experiences
 
-:briefcase: &emsp; <strong>Tweetsy</strong> || March 2022 - Present || Backend Developer(Node JS)<br/>
+:briefcase: &emsp; <strong>Tweetsy</strong> || March 2022 - Present || Backend Developer (Node JS)<br/>
 :briefcase: &emsp; <strong>Softcell Solution Ltd</strong> || Jul 2020 - Aug 2021 || Front-end Developer<br/>
 :briefcase: &emsp; <strong>Cesco Linguistic Services</strong> || Nov 2018 - Apr 2020 || Web-Developer<br/>
 
