@@ -1,7 +1,7 @@
 ![itzrizvi](https://github.com/itzrizvi/itzrizvi/blob/main/Shahriar-rizvi-github-banner.gif)
 
 ### Hi there👋
-This is Shahriar Rizvi (Backend Developer) from Bangladesh. Passionate about software based technologies. Mostly I have worked on JavaScript based frameworks and Vanilla JavaScript as this is my favourite language. Now I'm working on Node based backend and on MERN stack based projects as it's the most trendy stack and has included a lot of different technologies in this stack. Well, this all about me and Welcome to my GitHub Profile!!!
+This is Shahriar Rizvi (Full Stack Developer) from Bangladesh. Passionate about software based technologies. Mostly I have worked on JavaScript based frameworks and Vanilla JavaScript as this is my favourite language. Now I'm working on Node based backend and on MERN stack based projects as it's the most trendy stack and has included a lot of different technologies in this stack. Well, this all about me and Welcome to my GitHub Profile!!!
 
 #### Connect with me!
 
@@ -19,7 +19,7 @@ This is Shahriar Rizvi (Backend Developer) from Bangladesh. Passionate about sof
 
 #### Experiences
 
-:briefcase: &emsp; <strong>Pitec Clinical</strong> || August 2022 - Present || Full Stack Software Developer<br/>
+:briefcase: &emsp; <strong>Event Hub</strong> || August 2022 - Present || Full Stack Software Developer<br/>
 :briefcase: &emsp; <strong>Tweetsy</strong> || February 2022 - August 2022 || Backend Developer (Node JS)<br/>
 :briefcase: &emsp; <strong>Softcell Solution Ltd</strong> || Jul 2020 - Aug 2021 || Front-end Developer<br/>
 :briefcase: &emsp; <strong>Cesco Linguistic Services</strong> || Nov 2018 - Apr 2020 || Web-Developer<br/>
