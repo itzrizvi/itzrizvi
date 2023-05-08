@@ -1,4 +1,4 @@
-![itzrizvi](https://github.com/itzrizvi/itzrizvi/blob/main/Shahriar-rizvi-github-banner.gif)
+![shahriar-rzivi-fullstack-developer](https://user-images.githubusercontent.com/86625882/236817612-36ffda55-f472-49a8-8e04-ebcedfaeb63f.gif)
 
 ### Hi there👋
 This is Shahriar Rizvi (Full Stack Developer) from Bangladesh. Passionate about software based technologies. Mostly I have worked on JavaScript based frameworks and Vanilla JavaScript as this is my favourite language. Now I'm working on Node based backend and on MERN stack based projects as it's the most trendy stack and has included a lot of different technologies in this stack. Well, this all about me and Welcome to my GitHub Profile!!!
