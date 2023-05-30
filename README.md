@@ -27,4 +27,4 @@ This is Shahriar Rizvi (Full Stack Developer) from Bangladesh. Passionate about 
 #### Statistics
 ![Itzrizvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzrizvi&show_icons=true&count_private=true&theme=radical) 
 
-[![Itzrizvi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)]
+![Itzrizvi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)
