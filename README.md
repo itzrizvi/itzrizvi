@@ -19,7 +19,7 @@ This is Shahriar Rizvi (Full Stack Developer) from Bangladesh. Passionate about 
 
 #### Experiences
 
-:briefcase: &emsp; <strong>Event Hub</strong> || August 2022 - Present || Full Stack Software Developer<br/>
+:briefcase: &emsp; <strong>C-Sunshine</strong> || August 2022 - Present || Full Stack Software Developer<br/>
 :briefcase: &emsp; <strong>Tweetsy</strong> || February 2022 - August 2022 || Backend Developer (Node JS)<br/>
 :briefcase: &emsp; <strong>Softcell Solution Ltd</strong> || Jul 2020 - Aug 2021 || Front-end Developer<br/>
 :briefcase: &emsp; <strong>Cesco Linguistic Services</strong> || Nov 2018 - Apr 2020 || Web-Developer<br/>
