@@ -19,9 +19,8 @@ This is Shahriar Rizvi (Full Stack Developer) from Bangladesh. Passionate about 
 
 #### Experiences
 
-:briefcase: &emsp; <strong>C-Sunshine</strong> || August 2022 - Present || Full Stack Software Developer<br/>
-:briefcase: &emsp; <strong>Tweetsy</strong> || February 2022 - August 2022 || Backend Developer (Node JS)<br/>
-:briefcase: &emsp; <strong>Softcell Solution Ltd</strong> || Jul 2020 - Aug 2021 || Front-end Developer<br/>
+:briefcase: &emsp; <strong>C-Sunshine</strong> || September 2022 - Present || Full Stack Software Developer<br/>
+:briefcase: &emsp; <strong>Tweetsy</strong> || March 2022 - September 2022 || Backend Developer (Node JS)<br/>
 
 #### Statistics
 ![Itzrizvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzrizvi&show_icons=true&count_private=true&theme=radical) 
