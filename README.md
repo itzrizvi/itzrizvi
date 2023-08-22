@@ -1,7 +1,7 @@
 ![shahriar-rzivi-fullstack-developer](https://user-images.githubusercontent.com/86625882/236817612-36ffda55-f472-49a8-8e04-ebcedfaeb63f.gif)
 
 ### Hi there👋
-I'm a passionate software developer with a strong focus on backend technologies. I find the process of writing code to be incredibly fulfilling, as it allows me to explore different ways of thinking and applying logical solutions. Since 2019, I've been dedicated to continuous learning, always staying up to date with the latest trends in web development. Visual learning has been a key aspect of my growth, and I enjoy applying my knowledge to personal projects. Well, this is all about me and Welcome to my GitHub Profile!!!
+This is `Shahriar Rizvi`, I'm a passionate software developer with a strong focus on backend technologies. I find the process of writing code to be incredibly fulfilling, as it allows me to explore different ways of thinking and applying logical solutions. Since 2019, I've been dedicated to continuous learning, always staying up to date with the latest trends in web development. Visual learning has been a key aspect of my growth, and I enjoy applying my knowledge to personal projects. Well, this is all about me and Welcome to my GitHub Profile!!!
 
 #### Connect with me!
 
