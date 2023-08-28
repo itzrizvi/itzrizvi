@@ -22,6 +22,6 @@ This is `Shahriar Rizvi`, I'm a passionate software developer with a strong focu
 :briefcase: &emsp; <strong>Tweetsy</strong> || March 2022 - September 2022 || Backend Developer (Node JS)<br/>
 
 #### Statistics
-![Itzrizvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzrizvi&show_icons=true&count_private=true&theme=radical) 
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=itzrizvi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 
 ![Itzrizvi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)
