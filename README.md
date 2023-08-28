@@ -19,7 +19,7 @@ This is `Shahriar Rizvi`, I'm a passionate software developer with a strong focu
 #### Experiences
 
 :briefcase: &emsp; <strong>C-Sunshine</strong> || September 2022 - Present || Full Stack Software Developer<br/>
-:briefcase: &emsp; <strong>Tweetsy</strong> || March 2022 - September 2022 || Backend Developer (Node JS)<br/>
+:briefcase: &emsp; <strong>Tweetsy</strong> || March 2022 - September 2022 || Backend Engineer (Node JS)<br/>
 
 #### Statistics
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=itzrizvi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
