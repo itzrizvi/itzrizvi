@@ -9,7 +9,7 @@ This is `Shahriar Rizvi`, I'm a passionate software developer with a strong focu
 
 :hearts: &emsp; Mostly, I Code on JavaScript and Typescript.<br/>
 :sunglasses: &emsp; Always Extremely excited about adapting new technologies.<br/>
-:computer: &emsp; I use Visual Studio Code as an IDE software and Jira for task management.<br/>
+:computer: &emsp; I use VS Code, IntelliJ as an IDE software and Jira & Trello for task management.<br/>
 :e-mail: &emsp; Reach me: shahriar.rizvi02@gmail.com.<br/>
 
 #### Specialized
