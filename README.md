@@ -1,4 +1,4 @@
-![shahriar-rzivi-fullstack-developer](https://github.com/itzrizvi/itzrizvi/assets/86625882/78f9264f-16a4-4b4d-83d3-55ea47a0ee1c)
+![shahriar-rzivi-software-engineer](https://github.com/itzrizvi/itzrizvi/assets/86625882/95d24d34-6749-45c7-a067-71d3953e6f7c)
 
 ### Hi there👋
 This is `Shahriar Rizvi`, I'm a passionate software developer with a strong focus on backend technologies. I find the process of writing code to be incredibly fulfilling, as it allows me to explore different ways of thinking and applying logical solutions. Since 2019, I've been dedicated to continuous learning, always staying up to date with the latest trends in web development. Visual learning has been a key aspect of my growth, and I enjoy applying my knowledge to personal projects. Well, this is all about me and Welcome to my GitHub Profile!!!
