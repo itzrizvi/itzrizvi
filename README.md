@@ -19,7 +19,7 @@ This is `Shahriar Rizvi`, I'm a passionate software engineer with a strong focus
 
 #### Experiences
 
-:briefcase: &emsp; <strong>C-Sunshine</strong> || September 2022 - Present || Full Stack Software Developer<br/>
+:briefcase: &emsp; <strong>C-Sunshine</strong> || September 2022 - Present || Full Stack Developer<br/>
 :briefcase: &emsp; <strong>Tweetsy</strong> || March 2022 - September 2022 || Backend Engineer (Node JS)<br/>
 
 #### Statistics
