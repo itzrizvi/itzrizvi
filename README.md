@@ -20,7 +20,7 @@ This is `Shahriar Rizvi`, I'm a passionate software engineer with a strong focus
 
 #### Experiences
 
-:briefcase: &emsp; <strong>TechnoNext Ltd.</strong> || October 2022 - Present || Jr. Software Engineer<br/>
+:briefcase: &emsp; <strong>TechnoNext Ltd.</strong> || October 2022 - Present || Software Engineer<br/>
 :briefcase: &emsp; <strong>C-Sunshine</strong> || September 2022 - September 2023 || Full Stack Developer<br/>
 :briefcase: &emsp; <strong>Tweetsy</strong> || March 2022 - September 2022 || Backend Engineer (Node JS)<br/>
 
