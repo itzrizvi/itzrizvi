@@ -11,6 +11,7 @@ This is `Shahriar Rizvi`, I'm a passionate software engineer with a strong focus
 :sunglasses: &emsp; Always Extremely excited about adapting new technologies.<br/>
 :computer: &emsp; I use VS Code, IntelliJ as an IDE software and Jira & Trello for task management.<br/>
 :e-mail: &emsp; Reach me: shahriar.rizvi02@gmail.com.<br/>
+🟢 &emsp; Find me on [UpWork](https://www.upwork.com/freelancers/~016563ded4572efd4a)<br/>
 🌐 &emsp; [Website](https://shahriar-rizvi.vercel.app/)<br/>
 
 #### Specialized
