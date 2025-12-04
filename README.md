@@ -24,8 +24,3 @@ This is `Shahriar Rizvi`, I'm a passionate software engineer with a strong focus
 :briefcase: &emsp; <strong>TechnoNext Ltd.</strong> || October 2022 - Present || Software Engineer<br/>
 :briefcase: &emsp; <strong>C-Sunshine</strong> || September 2022 - September 2023 || Full Stack Developer<br/>
 :briefcase: &emsp; <strong>Tweetsy</strong> || March 2022 - September 2022 || Backend Engineer (Node JS)<br/>
-
-#### Statistics
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=itzrizvi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=itzrizvi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
